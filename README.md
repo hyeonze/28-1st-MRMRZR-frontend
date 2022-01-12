@@ -20,9 +20,9 @@ ZARA 홈페이지를 참고해 제작한 커머스사이트입니다.
 
 <a href="https://github.com/sseunn1" >김선주</a>
 
-<a href="https://github.com/hyeonze" > 안현재 </a>
-
 <a href="https://github.com/wjdgotn77" > 정해수 </a>
+
+<a href="https://github.com/hyeonze" > 안현재 </a>
 
 ### BACKEND (3명)
 
