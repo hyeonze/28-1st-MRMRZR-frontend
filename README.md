@@ -4,7 +4,7 @@
 
 ZARA 홈페이지를 참고해 제작한 커머스사이트입니다.
 
-## Highlights
+## My Highlights
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62171131/149089092-6d363a18-2e56-4017-95c7-d61e54f5e5bb.gif)
 
