@@ -2,7 +2,12 @@
 
 ## 프로젝트 소개
 
-ZARA 홈페이지를 참고해 제작한 커머스사이트입니다.
+ZARA를 모티브로한 커머스사이트(Front-end 3명 Back-end 3명 팀 Project)
+Navigation Bar와 Product Detail Page 역임
+장바구니 조회/추가/수정 기능 구현
+Path Parameter통한 선택상품 라우팅 구현
+Git 활용한 협업 경험 - 프로젝트 초기세팅, 기능별 branch분리,
+작업 후 Pull Request 작성 및 merge 시 conflict 대처
 
 ## My Highlights
 
