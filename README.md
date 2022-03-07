@@ -19,7 +19,7 @@ Git 활용한 협업 경험 - 프로젝트 초기세팅, 기능별 branch분리,
 
 ## 개발 인원 및 기간
 
-### 개발기간 ( 총 11일)
+### 개발기간 (총 11일)
 
 - 2021/12/27 ~ 2022/1/7
 - 프로젝트 관리 : <a href="https://trello.com/b/2f3aGMvW/first-sprint" >Trello</a>
